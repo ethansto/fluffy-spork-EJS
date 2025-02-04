@@ -7,7 +7,7 @@ close all
 clc
 
 %%
-
+% Test comment for github
 Y = magic(4);
 
 figure(1)
